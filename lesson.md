@@ -7,6 +7,8 @@ There is no self studies related to GIT. Learners should be informed that GIT is
 In the first half (1.5 hours) of the lesson, we will be learning about GIT. In the second half, we will be having a short recap on HTML and CSS which learners should have been working on their self studies. We will then use HTML and CSS to create a simple profile page (refer to [assignment](./assignment.md)) and upload the code to GitHub using GIT CLI.
 
 Additional reading: https://www.atlassian.com/git/tutorials/what-is-git
+GIT cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
+
 ---
 
 ## Conceptual Knowledge about GIT (15 mins)
