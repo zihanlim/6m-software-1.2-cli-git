@@ -58,6 +58,8 @@ Step 4: Stage the changed file by typing `git add .`
 
 Step 5: Commit it with a simple message `git commit -m "made changes"`.
 
+Step 5.2: print the list of bookmarked repository names and additionally, the corresponding repository URL. The -v option stands for "verbose"."git remote -v"
+
 Step 6: Push the committed change to remote repository `git push origin main`.
 
 Step 7: Visit your remote repository at github.com to see the changes. The remote repository URL is `https://github.com/<your username>/6m-software-1.2-cli-git`.
